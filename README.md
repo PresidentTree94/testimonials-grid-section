@@ -11,7 +11,7 @@ As part of the [Building responsive layouts](https://www.frontendmentor.io/learn
 I added Dark Mode to the website. The `alt-mode` folder contains a separate README explaining how it works. The button is located in the top-right corner of the page and scales down slightly when selected.
 
 ### Links
-- Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/four-card-feature-section-VILMXR5SVO)
+- Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/testimonials-grid-section-_tfcsjiFYY)
 - Live Site URL: [GitHub Page](https://presidenttree94.github.io/testimonials-grid-section/)
 
 ## Authors
